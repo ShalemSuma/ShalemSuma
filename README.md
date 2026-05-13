@@ -1,6 +1,6 @@
 ## Shalem Sumanthiran
 
-Data Analyst at [QS Quacquarelli Symonds](https://www.qs.com/global-student-flows) building production ML systems for international student mobility forecasting. Economics & Mathematics @ NYU Abu Dhabi.
+Data Scientist at [HolonIQ at QS](https://www.qs.com/global-student-flows) building production ML systems for international student mobility forecasting. Economics & Mathematics @ NYU.
 
 ---
 
